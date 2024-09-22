@@ -1,6 +1,6 @@
 <h1 align="center" style="color: #fcba03;">Oi, Me chamo Camile</h1>
 <!-- banner -->
-<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="900">
+<img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" >
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
@@ -12,15 +12,15 @@
 ###
 
 
-<p align="left">Olá! Sou a Camile. Adoro me aventurar no desenvolvimento web, especialmente no front-end, onde posso dar vida a ideias através do design e da interatividade. Além disso, gosto de explorar diferentes áreas da tecnologia e sempre busco aprender algo novo. 
-</p>
+<h4 align="left">Olá! Pode me chamar de Andra. Adoro me aventurar no desenvolvimento web, especialmente no front-end, onde posso dar vida a ideias através do design e da interatividade. Além disso, gosto de explorar diferentes áreas da tecnologia e sempre busco aprender algo novo. 
+</h4>
 
 <hr>
 
 ###
 
 ###
-
+<div align="center>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Andra-sun&locale=pt-br&hide_title=false&layout=compact&card_width=415&langs_count=5&theme=tokyonight&hide_border=true&order=5&border_radius=20" height="200" alt="languages graph"  />
 </div>
 
